@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WzvhOkHsEk7gRu6WNxMSifZt+vEI21/xgGoOPB3FxeKh6vQDBofbQBIMqroAE9fQJmJYhwBWsB+my6VludsWBg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\bjzxn_projects\\Macad3D\\Tools\\WrapperGenerator\\WrapperGenerator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.curverobot.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

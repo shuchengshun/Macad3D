@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKjEtfIsIyswG4EI6jlvM5FBWbfp/z8SNXQkyWLCGoOBrybISDN8/1NiFww8niOmYF7f7XK4+KN9ko8st7ZfwA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.5.0\\microsoft.codeanalysis.csharp.scripting.4.5.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.5.0\\microsoft.codeanalysis.scripting.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.curverobot.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

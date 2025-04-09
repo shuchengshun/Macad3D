@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RouA+zomJF5XSg4tJMFE+JnwmSx65stQFMlmGVyupvOdgf8n5kvvil4mXuazz17KYcyQJw1+ugSawhgom4dLwA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuch\\.nuget\\packages\\macad.thirdparty.occt\\7.8.0\\macad.thirdparty.occt.7.8.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.curverobot.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

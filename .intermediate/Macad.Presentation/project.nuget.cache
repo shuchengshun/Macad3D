@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjeWL1qsJlyR51b0KOxzmMZEWx7zN4KfXoRoI3ux7Vzhd4Y3UzE2/d93M8ghhyUq9v7kNOK7kwMCNYjMHNGGpQ==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuch\\.nuget\\packages\\controlzex\\6.0.0\\controlzex.6.0.0.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\dirkster.avalondock\\4.72.1\\dirkster.avalondock.4.72.1.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\dirkster.avalondock.themes.vs2013\\4.72.1\\dirkster.avalondock.themes.vs2013.4.72.1.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\fluent.ribbon\\10.0.4\\fluent.ribbon.10.0.4.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\shuch\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.curverobot.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

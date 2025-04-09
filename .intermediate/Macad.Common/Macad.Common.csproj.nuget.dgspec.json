@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj",
+        "projectName": "Macad.Common",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Common\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

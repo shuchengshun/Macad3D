@@ -1,0 +1,7 @@
+D:\Github\bjzxn_projects\Macad3D\bin\Build\MSBuildExtension.dll
+D:\Github\bjzxn_projects\Macad3D\bin\Build\MSBuildExtension.pdb
+D:\Github\bjzxn_projects\Macad3D\.intermediate\MSBuildExtension\Debug\MSBuildExtension.csproj.AssemblyReference.cache
+D:\Github\bjzxn_projects\Macad3D\.intermediate\MSBuildExtension\Debug\MSBuildExtension.csproj.CoreCompileInputs.cache
+D:\Github\bjzxn_projects\Macad3D\.intermediate\MSBuildExtension\Debug\MSBuildExtension.csproj.CopyComplete
+D:\Github\bjzxn_projects\Macad3D\.intermediate\MSBuildExtension\Debug\MSBuildExtension.dll
+D:\Github\bjzxn_projects\Macad3D\.intermediate\MSBuildExtension\Debug\MSBuildExtension.pdb

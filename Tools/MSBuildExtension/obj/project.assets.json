@@ -1,0 +1,494 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Markdig/0.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SharpVectors.Reloaded/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Markdig/0.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SharpVectors.Reloaded/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "Markdig/0.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SharpVectors.Reloaded/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Markdig/0.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SharpVectors.Reloaded/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Markdig/0.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Markdig.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SharpVectors.Reloaded/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/SharpVectors.Converters.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Css.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Dom.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Model.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Gdi.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Rendering.Wpf.dll": {
+            "related": ".xml"
+          },
+          "lib/net40/SharpVectors.Runtime.Wpf.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Markdig/0.18.0": {
+      "sha512": "xfz7jqFuld0+dEIIHVd7hfCbsIwERGval5lhQkHRI4o8yOHmTNjLzqRhNOC2cRnEgn5/0mU1jF+ntXDOxlXrRQ==",
+      "type": "package",
+      "path": "markdig/0.18.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Markdig.dll",
+        "lib/net35/Markdig.pdb",
+        "lib/net35/Markdig.xml",
+        "lib/net40/Markdig.dll",
+        "lib/net40/Markdig.pdb",
+        "lib/net40/Markdig.xml",
+        "lib/netcoreapp2.1/Markdig.dll",
+        "lib/netcoreapp2.1/Markdig.pdb",
+        "lib/netcoreapp2.1/Markdig.xml",
+        "lib/netstandard2.0/Markdig.dll",
+        "lib/netstandard2.0/Markdig.pdb",
+        "lib/netstandard2.0/Markdig.xml",
+        "lib/uap10.0/Markdig.dll",
+        "lib/uap10.0/Markdig.pdb",
+        "lib/uap10.0/Markdig.pri",
+        "lib/uap10.0/Markdig.xml",
+        "markdig.0.18.0.nupkg.sha512",
+        "markdig.nuspec"
+      ]
+    },
+    "SharpVectors.Reloaded/1.4.0": {
+      "sha512": "mTvnjhrXcEcLeJ/HN7bPW5UlQQIXQf+MZVEcMbm3Zje67888g5YJLGXkyJsmc8QTVE5nEv60NjCDyJiszetCXQ==",
+      "type": "package",
+      "path": "sharpvectors.reloaded/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/SharpVectors64.png",
+        "lib/net40/SharpVectors.Converters.Wpf.dll",
+        "lib/net40/SharpVectors.Converters.Wpf.xml",
+        "lib/net40/SharpVectors.Core.dll",
+        "lib/net40/SharpVectors.Core.xml",
+        "lib/net40/SharpVectors.Css.dll",
+        "lib/net40/SharpVectors.Css.xml",
+        "lib/net40/SharpVectors.Dom.dll",
+        "lib/net40/SharpVectors.Dom.xml",
+        "lib/net40/SharpVectors.Model.dll",
+        "lib/net40/SharpVectors.Model.xml",
+        "lib/net40/SharpVectors.Rendering.Gdi.dll",
+        "lib/net40/SharpVectors.Rendering.Gdi.xml",
+        "lib/net40/SharpVectors.Rendering.Wpf.dll",
+        "lib/net40/SharpVectors.Rendering.Wpf.xml",
+        "lib/net40/SharpVectors.Runtime.Wpf.dll",
+        "lib/net40/SharpVectors.Runtime.Wpf.xml",
+        "sharpvectors.reloaded.1.4.0.nupkg.sha512",
+        "sharpvectors.reloaded.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Markdig >= 0.18.0",
+      "SharpVectors.Reloaded >= 1.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shuch\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Tools\\MSBuildExtension\\MSBuildExtension.csproj",
+      "projectName": "MSBuildExtension",
+      "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Tools\\MSBuildExtension\\MSBuildExtension.csproj",
+      "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Tools\\MSBuildExtension\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+        "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\ProgramTools\\Nuget": {},
+        "http://nuget.curverobot.com/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.macad3d.net": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Markdig": {
+            "target": "Package",
+            "version": "[0.18.0, )"
+          },
+          "SharpVectors.Reloaded": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.curverobot.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

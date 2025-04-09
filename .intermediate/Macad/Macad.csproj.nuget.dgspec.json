@@ -1,0 +1,1030 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad\\Macad.csproj": {}
+  },
+  "projects": {
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj",
+        "projectName": "Macad.Common",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Common\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj",
+        "projectName": "Macad.Core",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Core\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp.Scripting": {
+              "target": "Package",
+              "version": "[4.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj",
+        "projectName": "Macad.Exchange",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Exchange\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Interaction\\Macad.Interaction.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Interaction\\Macad.Interaction.csproj",
+        "projectName": "Macad.Interaction",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Interaction\\Macad.Interaction.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Interaction\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[6.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[10.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.77, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj",
+        "projectName": "Macad.Managed",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Managed\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Macad.ThirdParty.Occt": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.8.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "secondaryFramework": "native",
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj",
+        "projectName": "Macad.Occt",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Occt\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Macad.ThirdParty.Occt": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.8.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "secondaryFramework": "native",
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj",
+        "projectName": "Macad.Presentation",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Presentation\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[6.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Dirkster.AvalonDock": {
+              "target": "Package",
+              "version": "[4.72.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Dirkster.AvalonDock.Themes.VS2013": {
+              "target": "Package",
+              "version": "[4.72.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[10.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.77, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj",
+        "projectName": "Macad.Resources",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad.Resources\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad\\Macad.csproj": {
+      "version": "3.1.1882.3",
+      "restore": {
+        "projectUniqueName": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad\\Macad.csproj",
+        "projectName": "Macad",
+        "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad\\Macad.csproj",
+        "packagesPath": "C:\\Users\\shuch\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\bjzxn_projects\\Macad3D\\.intermediate\\Macad\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Github\\bjzxn_projects\\Macad3D\\NuGet.Config",
+          "C:\\Users\\shuch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramTools\\Nuget": {},
+          "http://nuget.curverobot.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.macad3d.net": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Common\\Macad.Common.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Core\\Macad.Core.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Exchange\\Macad.Exchange.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Interaction\\Macad.Interaction.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Interaction\\Macad.Interaction.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Managed\\Macad.Managed.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Occt\\Macad.Occt.vcxproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Presentation\\Macad.Presentation.csproj"
+              },
+              "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj": {
+                "projectPath": "D:\\Github\\bjzxn_projects\\Macad3D\\Source\\Macad.Resources\\Macad.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ControlzEx": {
+              "target": "Package",
+              "version": "[6.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Dirkster.AvalonDock": {
+              "target": "Package",
+              "version": "[4.72.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Dirkster.AvalonDock.Themes.VS2013": {
+              "target": "Package",
+              "version": "[4.72.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[10.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.77, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "ControlzEx": "[6.0.0, )",
+            "Dirkster.AvalonDock": "[4.72.1, )",
+            "Dirkster.AvalonDock.Themes.VS2013": "[4.72.1, )",
+            "FlaUI.UIA3": "[4.0.0, )",
+            "Fluent.Ribbon": "[10.0.4, )",
+            "JetBrains.dotMemoryUnit": "[3.2.20220510, )",
+            "Macad.ThirdParty.Mesa": "[22.2.1, )",
+            "Macad.ThirdParty.Occt": "[7.8.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.4, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.5.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "[4.5.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.11.1, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.77, )",
+            "NUnit": "[3.14.0, )",
+            "NUnit3TestAdapter": "[4.6.0, )",
+            "System.Text.Encoding.CodePages": "[7.0.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
